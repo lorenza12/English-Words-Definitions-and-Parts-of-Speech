@@ -18,4 +18,4 @@ It is important to note that some words will not be found, and they are simply s
 <br>
 <br>
 Please note: This program is not perfect and will throw some errors sometimes that result in funky output to your output file.
-The wordDictionary.txt file are, for the most part, basic words. I wanted a bunch of words and definitions for a childrens hangman app I am making, so there isn't anything that complex.
+The words in wordDictionary.txt file are, for the most part, basic words. I wanted a bunch of words and definitions for a childrens hangman app I am making, so there isn't anything that complex.
