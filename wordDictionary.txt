@@ -3720,7 +3720,8 @@ wrist|noun|the carpus or lower part of the forearm where it joins the hand.|http
 writer|noun|a person engaged in writing books, articles, stories, etc., especially as an occupation or profession; an author or journalist.|http://www.dictionary.com/browse/writer
 write|verb|to trace or form (characters, letters, words, etc.) on the surface of some material, as with a pen, pencil, or other instrument or means; inscribe|http://www.dictionary.com/browse/write
 writhe|verb|to twist the body about, or squirm, as in pain, violent effort, etc.|http://www.dictionary.com/browse/writhe
-writing|noun|the act of a person or thing that writes.|http://www.dictionary.com/browse/writingwrongly|adjective|not in accordance with what is morally right or good|http://www.dictionary.com/browse/wrongly
+writing|noun|the act of a person or thing that writes.|http://www.dictionary.com/browse/writing
+wrongly|adjective|not in accordance with what is morally right or good|http://www.dictionary.com/browse/wrongly
 yawningly|adjective|being or standing wide open; gaping|http://www.dictionary.com/browse/yawningly
 yearly|adjective|pertaining to a year or to each year.|http://www.dictionary.com/browse/yearly
 yearningly|noun|deep longing, especially when accompanied by tenderness or sadness|http://www.dictionary.com/browse/yearningly
